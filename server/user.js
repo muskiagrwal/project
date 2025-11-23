@@ -38,4 +38,4 @@ fetchDataPromise()
     .catch((err) => console.error(err));
 
 // Run Async/Await
-fetchDataAsync();
+
